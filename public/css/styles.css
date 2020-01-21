@@ -40,14 +40,14 @@ header a {
 
 /* -------------- */
 
-input[type=search] {
+.search-input {
     border:solid 3px rgb(79, 79, 79);
-    font-size:25px;
+    font-size: 25px;
     padding: 6px;
 }
 
 button {
-    border:solid 3px rgb(79, 79, 79);
+    border: solid 3px rgb(79, 79, 79);
     font-size: 25px;
     padding: 6px;
     background-color: grey;
